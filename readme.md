@@ -7,4 +7,10 @@
 - 박
 - ~~손덕진~~
 
-강의내용 링크
+## 기본 명령어
+- git init
+- git status
+- git add
+- git commit
+- git log
+- git reset --hard
